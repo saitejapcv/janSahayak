@@ -1,0 +1,9 @@
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+.cache/
+data/.cache/
+data/schemes_dry_run.json
+dist/
+.DS_Store

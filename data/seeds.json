@@ -1,0 +1,247 @@
+[
+    {
+        "id": "EDU001",
+        "name": "National Talent Scholarship Undergraduate",
+        "category": "Education",
+        "level": "Central",
+        "state": "All India",
+        "ministry": "Indian Council of Agricultural Research (ICAR)",
+        "description": "Scholarship assistance for eligible undergraduate students pursuing Agriculture or allied disciplines.",
+        "details": "The National Talent Scholarship (NTS) is implemented by the Indian Council of Agricultural Research (ICAR) under the scheme Strengthening and Development of Higher Agricultural Education in India. The scholarship is awarded to students pursuing a Bachelor's degree in Agriculture and allied disciplines who have secured admission through the All India Entrance Examination (AIEE) and are studying in an ICAR-funded Agricultural University located outside their State of domicile. The scholarship aims to support meritorious students by providing financial assistance during their undergraduate studies. The scholarship is initially awarded for one year from the date of admission and is renewable for the remaining duration of the degree programme, subject to satisfactory academic performance and conduct.",
+        "target_beneficiaries": [
+            "Undergraduate Agriculture students",
+            "Students pursuing allied disciplines"
+        ],
+        "eligibility": [
+            "Pursuing a Bachelor's degree in Agriculture or allied disciplines",
+            "Admission through the All India Entrance Examination (AIEE) conducted for ICAR admissions",
+            "Enrolled in an Agricultural University located outside the student's State of domicile",
+            "Studying in an Agricultural University funded under the ICAR scheme Strengthening and Development of Higher Agricultural Education in India",
+            "Must maintain merit and good conduct",
+            "Must attend classes regularly",
+            "Must pursue studies on a full-time basis",
+            "Must not undertake part-time or full-time employment",
+            "Must not receive another scholarship or financial assistance during the course",
+            "Must secure minimum OGPA/CGPA of 7.00 out of 10.00 at the end of the first year, or 6.50 out of 10.00 for SC/ST students"
+        ],
+        "exclusions": [
+            "Students receiving another scholarship or financial assistance",
+            "Students leaving the course within one month of admission",
+            "Students changing their discipline/subject",
+            "Students changing their university during the scholarship tenure",
+            "Students undertaking part-time or full-time employment"
+        ],
+        "benefits": [
+            "₹3,000 per month during the Bachelor's degree programme",
+            "Scholarship initially awarded for one year and renewable subject to prescribed conditions"
+        ],
+        "required_documents": [
+            "Recent passport-size photograph",
+            "Signature",
+            "Thumb impression",
+            "Admission proof through AIEE",
+            "Aadhaar number",
+            "Aadhaar-linked bank account details",
+            "Any other documents prescribed by ICAR or the concerned University"
+        ],
+        "application_process": "Online application through the National Scholarships Portal. Students complete registration and e-KYC, generate an OTR number, log in to the NSP, complete the application form and upload documents. Applications are verified by the institution and subsequently by the concerned State Higher Education Department or nominated State Nodal Agency.",
+        "grievance_process": null,
+        "official_url": "https://scholarships.gov.in/",
+        "source_url": "https://www.myscheme.gov.in/schemes/nts-ug",
+        "last_verified": "2026-09-17"
+    },
+    {
+        "id": "EDU002",
+        "name": "Post Graduate Scholarship Scheme for GATE/GPAT Qualified Students - AICTE",
+        "category": "Education",
+        "level": "Central",
+        "state": "All India",
+        "ministry": "All India Council for Technical Education (AICTE)",
+        "description": "Post Graduate Scholarship of ₹12,400 per month for eligible full-time students with valid GATE/CEED scores admitted to AICTE-approved postgraduate programs in AICTE-approved institutions or university departments.",
+        "details": "The scheme Post Graduate Scholarship Scheme for GATE/GPAT Qualified Students - AICTE has been started by the All India Council for Technical Education, Government of India. AICTE awards a Post Graduate Scholarship of ₹12,400 per month to full-time GATE/CEED qualified students admitted to AICTE-approved postgraduate programs in AICTE-approved institutions or university departments as per AICTE-approved intake.",
+        "target_beneficiaries": [
+            "Full-time postgraduate students",
+            "Students with valid GATE/CEED scores"
+        ],
+        "eligibility": [
+            "Having a valid GATE/CEED score at the time of admission",
+            "Must be admitted as a full-time scholar",
+            "Final-year students of dual-degree integrated programmes may receive the scholarship from the 9th semester for one year",
+            "Admitted to AICTE-approved institutions or university departments",
+            "Admitted to AICTE-approved postgraduate programs",
+            "Number of scholarships is limited to the AICTE-approved intake"
+        ],
+        "exclusions": [
+            "Foreign students",
+            "Sponsored candidates",
+            "Candidates admitted through management quota",
+            "Students receiving financial assistance from another organization during the relevant period",
+            "Students taking second-time admission after re-qualifying GATE/CEED who have already availed the scholarship from AICTE or another centrally funded institution"
+        ],
+        "benefits": [
+            "₹12,400 per month per student",
+            "Scholarship is tenable for 24 months or the duration of the course, whichever is lower",
+            "Casual leave of up to 15 days in an academic year",
+            "Medical leave of up to one month in an academic year",
+            "Maternity/paternity leave as per Government of India norms"
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Passport-size photograph",
+            "Proof of age",
+            "Mark Sheets/Grade Cards and Degrees",
+            "GATE/CEED scorecard",
+            "Caste certificate, if applicable",
+            "Disability certificate, if applicable",
+            "Income certificate, if applicable",
+            "Bank account details",
+            "Any other required document"
+        ],
+        "application_process": "Eligible institutions upload eligible postgraduate student details on the AICTE portal and provide the student with a Unique ID. Students use the Unique ID to log in to the PG Scholarship portal and upload scanned copies of required documents. The institution verifies the student's data and approves the candidature for scholarship disbursement.",
+        "grievance_process": null,
+        "official_url": "https://pgscholarship.aicte-india.org/",
+        "source_url": "https://www.myscheme.gov.in/schemes/pgssgategpatqsaicte",
+        "last_verified": "2026-09-17"
+    },
+    {
+        "id": "EDU003",
+        "name": "Scholarship for Students with Disabilities (Above Grade 8) - Tamil Nadu",
+        "category": "Education",
+        "level": "State",
+        "state": "Tamil Nadu",
+        "ministry": "Department for the Welfare of Differently Abled Persons, Government of Tamil Nadu",
+        "description": "Financial assistance for differently abled students studying in government-recognized schools, colleges or training centers.",
+        "details": "The Department for the Welfare of Differently Abled Persons, Government of Tamil Nadu, offers the Scholarship for Students with Disabilities (Above Grade 8) program. The initiative provides financial assistance to differently abled students enrolled in government-recognized schools, colleges or training centers to help with educational expenses.",
+        "target_beneficiaries": [
+            "Students with disabilities",
+            "Students in government-recognized schools",
+            "Students in government-recognized colleges",
+            "Students in government-recognized training centers"
+        ],
+        "eligibility": [
+            "Must be a student",
+            "Must be a differently abled person",
+            "Must be studying in 9th to 12th Standard, Degree, Postgraduate, Medical, Engineering, Vocational or other Professional Courses",
+            "Must be studying in a government-recognized school, college or training center",
+            "Must have obtained not less than 40% marks in the previous qualifying examination"
+        ],
+        "exclusions": [],
+        "benefits": [
+            "₹4,000 per annum for students studying from 9th to 12th Standard",
+            "₹6,000 per annum for Degree Courses",
+            "₹7,000 per annum for Postgraduate, Medical, Engineering, Vocational and other Professional Courses"
+        ],
+        "required_documents": [
+            "Certificate from the Head of the Institution",
+            "National Identity Card of the Differently Abled",
+            "Statement of Marks from the previous qualifying examination"
+        ],
+        "application_process": "Offline application. The applicant visits the District Differently Abled Welfare Officer during office hours and obtains the prescribed application form. The applicant fills the form, attaches the required documents and submits the signed application to the District Differently Abled Welfare Officer. The applicant should request a receipt or acknowledgment containing the submission date and other identification details.",
+        "grievance_process": null,
+        "official_url": null,
+        "source_url": "https://cms.tn.gov.in/sites/default/files/documents/wda_e_cc_2022_23.pdf",
+        "last_verified": "2026-09-17"
+    },
+    {
+        "id": "EDU004",
+        "name": "Pradhan Mantri Uchchatar Shiksha Protsahan (PM-USP) Central Sector Scheme of Scholarship for College and University Students",
+        "category": "Education",
+        "level": "Central",
+        "state": "All India",
+        "ministry": "Department of Higher Education, Ministry of Education",
+        "description": "Scholarship scheme providing financial assistance to meritorious students from poor families pursuing higher studies.",
+        "details": "The PM-USP Central Sector Scheme of Scholarship for College and University Students provides financial assistance to meritorious students from poor families to meet part of their day-to-day expenses while pursuing higher studies. Scholarships are awarded based on the results of the Higher Secondary/Class 12 Board Examination. A maximum of 82,000 fresh scholarships per annum are provided for pursuing Graduate/Postgraduate degrees in colleges and universities and professional courses such as Medical and Engineering.",
+        "target_beneficiaries": [
+            "Meritorious students from poor families",
+            "Students pursuing regular degree courses",
+            "Students pursuing higher education in recognized institutions"
+        ],
+        "eligibility": [
+            "Must be above the 80th percentile of successful candidates in the relevant stream from the respective Board of Examination in Class 12",
+            "Must be pursuing a regular degree course",
+            "Course must be at a recognized college or institution",
+            "Gross parental/family income must not exceed ₹4,50,000 per annum",
+            "For renewal, must obtain at least 50% marks in the Annual Examination",
+            "For renewal, attendance must be at least 75%",
+            "Must have an Aadhaar-seeded bank account opened in the student's name"
+        ],
+        "exclusions": [
+            "Students pursuing correspondence or distance-mode courses",
+            "Students pursuing Diploma courses",
+            "Students already receiving another scholarship scheme",
+            "Students receiving State-run scholarship schemes, fee waivers or reimbursement schemes"
+        ],
+        "benefits": [
+            "Financial assistance to support day-to-day expenses during higher studies",
+            "Maximum of 82,000 fresh scholarships per annum"
+        ],
+        "required_documents": [
+            "12th Mark Sheet",
+            "Family Income Certificate",
+            "Category/Caste Certificate for reserved category students",
+            "Disability Certificate, if applicable",
+            "Previous Year Mark Sheet for renewal applications"
+        ],
+        "application_process": "Online application through the National Scholarships Portal. Students complete One Time Registration, Aadhaar e-KYC and face authentication, log in through OTR, complete the application form and upload required documents. Applications are verified by the institution and subsequently by the concerned State Higher Education Department or nominated State Nodal Agency. Payment status can be tracked through the PFMS portal.",
+        "grievance_process": "Grievances or complaints may be registered through the CPGRAMS grievance mechanism or with the Nodal Officer whose email is available on the NSP portal.",
+        "official_url": "https://scholarships.gov.in/",
+        "source_url": "https://www.myscheme.gov.in/schemes/csss-cus",
+        "last_verified": "2026-09-17"
+    },
+    {
+        "id": "EDU005",
+        "name": "National Means-cum-Merit Scholarship Scheme",
+        "category": "Education",
+        "level": "Central",
+        "state": "All India",
+        "ministry": "Department of School Education & Literacy, Ministry of Education",
+        "description": "Scholarship scheme for meritorious students from economically weaker sections to reduce dropout after Class VIII and encourage continuation of education at the secondary stage.",
+        "details": "The National Means-cum-Merit Scholarship Scheme is a Central Sector Scheme launched in 2008 by the Department of School Education & Literacy, Ministry of Education, Government of India. The scheme aims to award scholarships to meritorious students from economically weaker sections to arrest dropout at Class VIII and encourage continuation of education at the secondary stage. Up to 1,00,000 scholarships are awarded to eligible students whose parental income is not more than ₹3,50,000 per annum from all sources at the time of selection.",
+        "target_beneficiaries": [
+            "Meritorious students from economically weaker sections",
+            "Students entering Class IX",
+            "Students studying in Government, Government-aided or local body schools"
+        ],
+        "eligibility": [
+            "Parental income from all sources must not exceed ₹3,50,000 per annum",
+            "Must have a minimum of 55% marks or equivalent grade in Class VII examination for appearing in the selection test",
+            "SC/ST students receive a 5% relaxation in the Class VII marks requirement",
+            "Must be studying as a regular student in a Government, Government-aided or local body school",
+            "Must pass the State/UT selection tests",
+            "Must pass both MAT and SAT with at least 40% marks in aggregate",
+            "SC/ST students have a 32% cut-off in the selection tests",
+            "At selection, must have at least 55% marks or equivalent grade in Class VIII examination, with 5% relaxation for SC/ST students",
+            "For renewal, must obtain at least 60% marks in Class X, with 5% relaxation for SC/ST students",
+            "For continuation in Class X and XII, must obtain clear promotion in the first attempt"
+        ],
+        "exclusions": [
+            "Students studying in Kendriya Vidyalayas",
+            "Students studying in Jawahar Navodaya Vidyalayas",
+            "Students studying in residential schools run by Central or State Government institutions where boarding, lodging and education are provided",
+            "Students studying in private schools",
+            "Students studying abroad",
+            "Students pursuing diploma/certificate-level courses"
+        ],
+        "benefits": [
+            "₹12,000 per annum",
+            "₹1,000 per month",
+            "Scholarship begins at Class IX and can continue up to Class XII",
+            "Maximum scholarship duration of four years",
+            "Disbursement directly into student bank account through Direct Benefit Transfer (DBT)"
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Educational certificates/marksheets",
+            "Caste Certificate",
+            "Parent's Income Certificate",
+            "Disability Certificate, if applicable",
+            "Domicile Certificate",
+            "Any other supporting documents as required"
+        ],
+        "application_process": "Online application through the National Scholarships Portal. Students register, receive an Application ID and password, log in, complete the application form and upload documents. Each State/UT conducts its own selection test at the Class VIII stage using Mental Ability Test (MAT) and Scholastic Aptitude Test (SAT). Payment status can be tracked through the PFMS portal.",
+        "grievance_process": null,
+        "official_url": "https://scholarships.gov.in/",
+        "source_url": "https://www.myscheme.gov.in/schemes/nmmss",
+        "last_verified": "2026-09-17"
+    }
+]
